@@ -1,0 +1,19 @@
+#+title:     Shared Org Mode
+#+author:    Logan Barnett
+#+email:     logustus@gmail.com
+#+date:      <2023-10-21 Sat>
+#+language:  en
+#+file_tags:
+#+tags:
+
+The title is still a work in progress.
+
+We need a wiki that is powered by org-mode documents on disk or in a git
+repository.
+
+Org-mode offers a lot of power over Markdown and thus is a more desirable
+format. One example is org-babel.
+
+We want to invite authors who are less-technical than software engineers. As
+such, the git management should be fairly streamlined if at all possible.
+Initial iterations will not cover this though, and will defer to other systems.
